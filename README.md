@@ -30,8 +30,4 @@ This is a **Streamlit** web app that predicts user behavior based on **Age & Sal
 
 ---
 
-## 📦 Installation  
-1️⃣ Clone the repo  
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+
